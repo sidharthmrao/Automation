@@ -1,7 +1,7 @@
 # Automation
 This repository contains different programs I make for personal usage and automation.
 
-#adskipper.py
+## adskipper.py
 This Program automatically skips Spotify ads by exploiting a glitch.
 
 Requirements:
