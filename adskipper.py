@@ -1,4 +1,5 @@
 #pip install pynput
+#made when i still used windows lol
 
 import os
 from pynput.keyboard import Key, Controller
